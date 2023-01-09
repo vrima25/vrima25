@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on Data Analyst Project
-- 📫 DM me on Instagram @_nu.raga
+- 📫 DM me on Instagram @vrima25
 
 <!---
 vrima25/vrima25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
