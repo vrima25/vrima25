@@ -51,6 +51,7 @@ Experience with .NET-based systems, database management, and working in agile te
 
 | Project                                                         | Description                           | Stack                   |
 | --------------------------------------------------------------- | ------------------------------------- | ----------------------- |
+| [customer-auth-api](https://github.com/vrima25/customer-auth-api) | JWT-based auth API built in Go | Go · PostgreSQL · JWT |
 | [travel buddy](https://github.com/vrima25/travelbuddy)          | Smart travel planning assistant       | JavaScript · Gemini API |
 | [learn-gemini-ai](https://github.com/vrima25/learn-gemini-ai)   | Hands-on chatbot built with Gemini AI | JavaScript · Gemini API |
 | [film_recommender](https://github.com/vrima25/film_recommender) | Movie recommendation system           | Java                    |
