@@ -10,7 +10,7 @@ I build APIs and backend systems, and I'm exploring how LLMs can make them smart
 **Backend**
 
 - Python · FastAPI _(learning)_
-- .NET (C#) · Java
+- .NET (C#) · Java · Go
 - REST API design
 
 **Database**
