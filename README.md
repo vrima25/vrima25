@@ -8,11 +8,11 @@ Background in Statistics. Currently deepening my Go and system design work.
 
 ## Tech Stack
 
-**Languages** Java · Go · C# / .NET · SQL
-**Frameworks** Spring Boot · .NET
-**Databases** PostgreSQL · MySQL · MSSQL
-**Tools** Git · Linux · Postman · JIRA
-**Frontend** React · TypeScript *(secondary)*
+- **Languages** Java · Go · C# / .NET · SQL
+- **Frameworks** Spring Boot · .NET
+- **Databases** PostgreSQL · MySQL · MSSQL
+- **Tools** Git · Linux · Postman · JIRA
+- **Frontend** React · TypeScript *(secondary)*
 
 ---
 
@@ -20,7 +20,6 @@ Background in Statistics. Currently deepening my Go and system design work.
 
 **[customer-auth-api](https://github.com/vrima25/customer-auth-api)** — Go
 REST API for customer registration and login, built from scratch. Go standard library (`net/http`) without a web framework, PostgreSQL, JWT authentication, bcrypt password hashing. Layered architecture: model, repository, service, controller, middleware.
-`[live URL coming soon]`
 
 ---
 
