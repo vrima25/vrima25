@@ -27,12 +27,6 @@ controller, middleware. Deployed on Render with a managed PostgreSQL instance.
 
 ---
 
-## Teaching
-
-I run free introductory Java programming classes for junior and senior high school students in West Sumatra.
-
----
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/ratnavrimarescha) · [Email](mailto:vrimaratna@gmail.com)
