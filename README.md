@@ -18,8 +18,12 @@ Background in Statistics. Currently deepening my Go and system design work.
 
 ## Projects
 
-**[customer-auth-api](https://github.com/vrima25/customer-auth-api)** — Go
-REST API for customer registration and login, built from scratch. Go standard library (`net/http`) without a web framework, PostgreSQL, JWT authentication, bcrypt password hashing. Layered architecture: model, repository, service, controller, middleware.
+**[go-auth-service](https://github.com/vrima25/go-auth-service)** — Go · [Live demo](https://go-auth-service-hh8n.onrender.com)
+
+REST API for customer registration and login, built from scratch. Go standard
+library (`net/http`) without a web framework, PostgreSQL, JWT authentication,
+bcrypt password hashing. Layered architecture: model, repository, service,
+controller, middleware. Deployed on Render with a managed PostgreSQL instance.
 
 ---
 
