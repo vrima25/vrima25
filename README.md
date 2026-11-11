@@ -2,7 +2,7 @@
 
 Backend engineer working in Java, .NET, and Go. Three years building internal platforms used by call center agents at a bank — writing endpoints and business logic from PRDs, and contributing to database and API design on new projects.
 
-Background in Statistics. Currently deepening my Go and system design work.
+Background in Statistics.
 
 ---
 
